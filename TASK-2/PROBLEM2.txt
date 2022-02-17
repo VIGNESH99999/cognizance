@@ -1,0 +1,22 @@
+1   Program for finding the nth number in fibonacci 
+2
+3   Step-1: Declare the integers a,b,k,c,j
+4
+5   Step-2: Now assign a=0
+6
+7   Step-3: assign b=1
+8
+9   Step-4: Take the input a  from the user
+10
+11  Step-5: By using for loop for i=2 to k
+12                      assign c=a+b
+13                      assign a=b
+14                      assign b=c
+15
+16  Step-6: print b
+17
+18
+19
+20
+ 
+

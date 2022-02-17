@@ -1,0 +1,20 @@
+1   1. Program of divisibility of a number by 3 this will make sure whether the input is divisible by 3 or not to the user
+2
+3   2. Step-1: Declare an integer k
+4
+5   3. Step-2: Take input from the user k
+6
+7   4. Step-3: Then, while k>0 for this assign k=k-3
+8
+9   5. Step-4: if k==0
+10              print response
+11                  "TRUE"
+12        else
+13             print response
+14                   "FALSE"
+15
+16
+17
+18
+19
+20
